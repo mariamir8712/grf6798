@@ -1,2 +1,4 @@
 Text for first commit
 Secound string
+*
+4 string
